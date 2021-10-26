@@ -20,13 +20,16 @@ body {
 3.mau
 4.kieu chu
 */
+html{
+    color:black;
+}
 #main {
     text-align: center;
 
 }
 body{
     background-color: #C0C0C0 ;
-    
+    color: black;
 
 }
 
@@ -191,7 +194,7 @@ padding-right: 200px;
     margin-left: 80px;
     /* margin-top: 400px; */
     text-align:center;
-    color: blue;
+    color: rgb(34, 10, 22);
     font-size: 180%;
     margin-bottom: 100px;
 }
@@ -221,7 +224,7 @@ article .pro2{
     margin-left: 21%;
     /* margin-top: 400px; */
     text-align:center;
-    color: blue;
+    color: rgb(34, 10, 22);
     font-size: 180%;
     margin-bottom: 100px;
 }
@@ -274,7 +277,7 @@ article .pro2{
     margin-left: 12%;
     /* margin-top: 400px; */
     text-align:center;
-    color: blue;
+    color: rgb(34, 10, 22);
     font-size: 180%;
     margin-bottom: 100px;
 }
@@ -317,7 +320,7 @@ padding-right: 200px;
     margin-left: 80px;
     /* margin-top: 400px; */
     text-align:center;
-    color: blue;
+    color: rgb(34, 10, 22);
     font-size: 180%;
     margin-bottom: 100px;
 }
